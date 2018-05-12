@@ -1,0 +1,15 @@
+{
+	"require": {
+		"fabpot/php-cs-fixer": "*",
+		"laravel/envoy": "*",
+		"laravel/homestead": "*",
+		"laravel/installer": "*",
+		"phing/phing": "*",
+		"phpmd/phpmd": "*",
+		"phpunit/phpunit": "*",
+		"sebastian/phpcpd": "*",
+		"sensiolabs/security-checker": "*",
+		"squizlabs/php_codesniffer": "*",
+		"vinkla/climb": "*"
+	}
+}
