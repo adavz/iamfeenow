@@ -1,4 +1,5 @@
 {
+	"name": "adavz/iamfeenow",
 	"require": {
 		"fabpot/php-cs-fixer": "*",
 		"laravel/envoy": "*",
